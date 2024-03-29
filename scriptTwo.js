@@ -91,7 +91,7 @@ countriesContainer.computedStyleMap.opacity = 1;
 // getCountryData('norway')
 // console.log(getCountryData('portugal'))
 
-// -------- 2nd flag depicting neighbour country--------------------------------------------------------------------------------------------------------
+// --------1st flag of country and 2nd flag depicting neighbour/border country--------------------------------------------------------------------------------------------------------
 
 const getCountryAndNeighbour = function (country){
           const renderCountry = function(data, className = '')
